@@ -6,8 +6,6 @@ long find_ncr(int, int);
 
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-
     int n, r;
     long npr, ncr;
 
